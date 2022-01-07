@@ -1,0 +1,21 @@
+Frame0  : 'My secre'
+Frame1  : '. Imagin'
+Frame2  : ' That is'
+Frame3  : 't is a f'
+Frame4  : 'My secre'
+Frame5  :
+Frame6  : ' "Logic '
+Frame7  :
+Frame8  : 't is a f'
+Frame9  :
+Frame10 : 'will get'
+Frame11 :
+Frame12 : 't is a f'
+Frame13 :
+Frame14 :
+Frame15 :
+Frame16 : 't is a f'
+Frame17 :
+Frame18 : 'm A to B'
+Frame19 : 'instein.'
+Frame20 : 't is a f'
