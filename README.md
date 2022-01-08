@@ -243,6 +243,10 @@ checkPKCS7padding(string2)
 string3="ICE ICE BABY\x01\x02\x03\x04"
 checkPKCS7padding(string3)
 ```
+运行结果：
+
+![image](https://user-images.githubusercontent.com/57308439/148646901-ee324437-01ae-4fbb-ab5f-e873d0eecf6d.png)
+
 
 ## 3. CBC bit flipping attacks
 >Start out by encrypting a normal token for a block of 16 bytes. This will be where we will inject our crafted block. Call this encrypted block current_block.
