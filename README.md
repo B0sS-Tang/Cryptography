@@ -645,7 +645,7 @@ if __name__ == "__main__":
 
 ![image](https://user-images.githubusercontent.com/57308439/148521628-f32465f8-362f-4c8e-ac7a-9e2899c8fecb.png)
 
-对此，可以从小到大枚举K，依次开三次根号，知道开出整数为止。
+对此，可以从小到大枚举K，依次开三次根号，直到开出整数为止。
 
 #### e=5 的情况
 同理e=3的解密过程
